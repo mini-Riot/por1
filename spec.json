@@ -3,12 +3,21 @@
     "name": "por1",
     "repo_url": "https://github.com/mini-Riot/por1"
   },
-  "structure": "monorepo",
-  "apps": [
-    "api",
-    "web"
+  "features": [
+    {
+      "name": "dashboard",
+      "status": "planned"
+    }
   ],
-  "database": [],
-  "endpoints": [],
-  "features": []
+  "database": [
+    {
+      "table": "suppliers",
+      "fields": []
+    },
+    {
+      "table": "catalogue",
+      "fields": []
+    }
+  ],
+  "endpoints": []
 }
