@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "por1",
+    "repo_url": "https://github.com/mini-Riot/por1"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
